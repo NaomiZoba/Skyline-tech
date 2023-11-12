@@ -1,0 +1,21 @@
+table{
+    width: 700px;
+    margin: auto;
+}
+
+th {
+    text-align: left;
+    background-color: blue;
+    color: #fff; 
+    padding: 2px; 
+    border-radius: 4px;
+}
+
+table, th, td {
+    border: 1px solid #000;
+    border-collapse: collapse;
+    padding: 5px;
+    border-bottom: 1px solid gray;
+
+
+}
